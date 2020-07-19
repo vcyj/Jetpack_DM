@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaculatorTest_2_find_mistake</string>
+    <string name="title_msg">口算测试</string>
+    <string name="title_ima_info">图片</string>
+    <string name="title_button_msg">进入</string>
+    <string name="buttonSubmit">提交</string>
+    <string name="Current_score">得分:%d</string>
+    <string name="input_indicator">你的答案</string>
+    <string name="lose_score_msg">你的得分:%d</string>
+    <string name="title_dialog_title">确定离开界面</string>
+    <string name="dialog_negative_title">取消</string>
+    <string name="indicator_PleaseEnterNumber">请开始答题</string>
+    <string name="answer_correct_msg">正确</string>
+    <string name="button_back_to_title">返回</string>
+    <string name="win_score_msg">新纪录</string>
+    <string name="lose_msg">挑战失败</string>
+    <string name="win_msg">挑战成功</string>
+    <string name="dialog_postive_msg">确定</string>
+    <string name="high_score">最高分%d</string>
+</resources>
